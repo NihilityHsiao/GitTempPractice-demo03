@@ -5,4 +5,7 @@
 # 扫码测试部分
 def scanQrCode():
     # 扫码逻辑代码
+    # 代码测试无误
+    # 合并到master分支
     pass
+    
